@@ -13,7 +13,6 @@ Perfect for newsletters, announcements, and outreach campaigns.
 - 🔑 Multiple SMTP support (Gmail, Outlook, Zoho, Amazon SES, SendGrid, etc.)
 - 🔄 Automatic SMTP rotation for bulk sending
 - 📊 Mail reports (status: sent, failed, error message)
-- 📥 Import bulk email list (CSV upload)
 - 🛡️ Secure with PHPMailer integration
 - ⚡ Lightweight & fast (no external dependencies)
 
@@ -78,3 +77,4 @@ Perfect for newsletters, announcements, and outreach campaigns.
 
 ## 📝 License
 This plugin is released under the **GPL v2 or later** license.
+
